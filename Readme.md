@@ -1,0 +1,1 @@
+Este proyecto usa un dataset de Gendarmeria solicitado mediante Ley de Transparencia, para predecir nivel de riesgo penitenciario al momenrto en que un recluso ingresa a un establecimiento penitenciario
