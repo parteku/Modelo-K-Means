@@ -1,1 +1,7 @@
-#Debo poner todas laslibrerias necesarias
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
