@@ -89,7 +89,7 @@ def plots_model():
     plt.savefig('clusters_plot.png')  # Guardar el gráfico como un archivo PNG
 
 
-model = KMeans(n_clusters=4, init='k-means++', max_iter=340)
+model = KMeans(n_clusters=4, init='k-means++', max_iter=400)
 grupos = model.fit_predict(df_norm)
 df_norm['grupos'] = grupos
 RFM1['grupos'] = grupos
