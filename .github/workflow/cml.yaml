@@ -33,4 +33,4 @@ jobs:
 
       - name: Finalize
         run: |
-          echo "Model training completed successfully as a homosexual."
+          echo "Model training completed successfully."
