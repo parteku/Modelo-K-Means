@@ -1,4 +1,4 @@
-name: Train KMeans Clustering Model
+name: Train KMeans Clustering Model 
 
 on:
   push:
